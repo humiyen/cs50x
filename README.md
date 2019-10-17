@@ -1,0 +1,2 @@
+# cs50x
+for the problem sets of cs50x
